@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Besties</string>
+    <string name="ram">Ram Kumar</string>
+    <string name="ram_desc">Good Boy</string>
+    <string name="ram_info">Ram is a compassionate soul with a heart of gold. He radiates warmth and kindness, making everyone feel welcome. His infectious positivity and gentle humor brighten even the darkest days. With unwavering empathy, Ram listens deeply and understands truly. His selfless nature inspires others to be their best selves</string>
+
+    <string name="pavan">Pavan Sai</string>
+    <string name="pavan_desc">DataBase Officer</string>
+    <string name="pavan_info">"Pavan Sai is a curious and inquisitive individual with a thirst for knowledge. He has a knack for asking the right questions and gathering information in casual conversations. With a friendly demeanor, Pavan puts others at ease, making them share more than they intended. His curiosity often leads him to uncover surprising insights and unexpected connections. Though his methods may be unorthodox, Pavan's intentions are pure and driven by a desire to learn. "</string>
+    <string name="sanjay">Sanjay</string>
+    <string name="sanjay_desc">Lover Become Friend</string>
+    <string name="sanjay_info">Sanjay is a charming flirt-master who can woo girls with his smooth talk until he opens his mouth again and ruins everything! His love life is a rollercoaster of sweet nothings, silly fights, and hasty apologies. Sanjay\'s motto? Flirt, fight, repeat – and he\'s stuck on this crazy loop! Despite his questionable skills, he always means well… until the next pretty face comes along! Sanjay\'s love life is a never-ending comedy show, and he\'s the star clown!\n</string>
+    <string name="koushik">Koushik</string>
+    <string name="koushik_desc">Mr.Perfect</string>
+    <string name="koushik_info">" Koushik is the epitome of goodness with a heart full of kindness and a soul that shines with honesty He wears his heart on his sleeve and his love for the lovely lady from the CST branch is as pure as gold With a smile that lights up the room Koushiks devotion is unwavering and his dedication is unshakeable Hes the kind of guy who makes you believe in fairy tales and true love In a world of imperfections Koushiks love story is a beautiful work of art"</string>
+    <string name="prasanth">Prasanth</string>
+    <string name="prasanth_desc">MultiTasker</string>
+    <string name="prasanth_info">Meet Prasanth the cricket sensation whos got a secret ambition to trade his bat for a corner office at Google By day he slays on the pitch by night hes plotting his takeover of the tech world Why settle for just hitting sixes when you can hit a billion dollar IPO Prasanth\'s got the skills the passion and the crazy confidence to make it happen Who knows Maybe one day Sundar Pichai will be answering to CEO Prasanth stranger things have happened right</string>
+    <string name="hemanth">Hemanth</string>
+    <string name="hemanth_desc">Hurry Guy</string>
+    <string name="hemanth_info">" Meet Hemanth the love failure extraordinaire who turned his heartbreak into a Java fueled revenge story Now hes the undisputed Lord of Java the Sultan of Syntax the Emperor of Eclipse the one being in the universe who knows everything about Java dont at him he wont respond too busy coding His quiz app is the stuff of legend a marvel of innovation born from the ashes of his shattered heart Hemants motto You may have broken my heart but Ill compile your code and make it obey me Bow down mortals before the Java Overlord"</string>
+</resources>
